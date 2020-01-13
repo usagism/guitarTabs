@@ -1,20 +1,19 @@
 # Tab Tracker
-A Vue.js / Express.js web application for keeping track of guitar tabs
+A Vue.js / Express.js web application for keeping track of guitar tabs, Storing Lyrics and Watching Videos from Youtube.
+This works by adding your own songs to a Database
 
 # Setup
 
-You need to have Node Js installed: https://nodejs.org/en/
-
 You must at least have **NODE version 8.2.1**
 
-### Client - Terminal A
+### Client
 ```
 cd client
 npm install
 npm start
 ```
 
-### Server - Terminal B
+### Server
 ```
 cd server
 npm install
